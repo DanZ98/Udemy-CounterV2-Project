@@ -1,6 +1,6 @@
 # Counter JavaScript Project
 
-A Udemy project showcasing a counter app clicking button action in JavaScript. This is a more JavaScript type of project within the JavaScript section of the course. 
+A Udemy project showcasing a counter app clicking button action in JavaScript. OOP is the main focus for this apps. This is a more JavaScript type of project within the JavaScript section of the course. 
 
 ## Contributions
 
